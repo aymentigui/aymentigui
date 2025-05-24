@@ -32,7 +32,12 @@
 
 ###
 
-<p align="left">I'm TIGHIOUART Aimen abdelghafout from Algeria<br><br>- 🔭 I’m working as TRANSTEV (aljamaiya linakl wa khadamat)<br><br>- 🌐 Check out my portfolio & blog: <a href="https://aimen-blog.com/" target="_blank">aimen-blog.com</a></p>
+<p align="left">
+  I'm <strong>TIGHIOUART Aimen Abdelghafour</strong> from Algeria.<br><br>
+  - 🔭 I’m currently working at <strong>TRANSTEV</strong> (Aljamaiya Linakl wa Khadamat)<br><br>
+  - 💻 I’m a <strong>Full Stack Developer</strong> specializing in <strong>Next.js</strong><br><br>
+  - 🌐 Check out my portfolio & blog: <a href="https://aimen-blog.com/" target="_blank">aimen-blog.com</a>
+</p>
 
 ###
 
