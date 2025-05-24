@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm TIGHIOUART Aimen abdelghafout from Algeria<br><br>- 🔭 I’m working as TRANSTEV (aljamaiya linakl wa khadamat)<br><br>- 🌐 Check out my portfolio & blog: <a href="https://aimen-blog.com/">aimen-blog.com</a></p>
+<p align="left">I'm TIGHIOUART Aimen abdelghafout from Algeria<br><br>- 🔭 I’m working as TRANSTEV (aljamaiya linakl wa khadamat)<br><br>- 🌐 Check out my portfolio & blog: <a href="https://aimen-blog.com/" target="_blank">aimen-blog.com</a></p>
 
 ###
 
